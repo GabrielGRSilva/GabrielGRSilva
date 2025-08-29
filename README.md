@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello! I'm Gabriel, from Brazil! I'm a Back-End Developer with hands-on experience in Python, Golang and Git, with a solid background in education and learning technologies. I hold a Master’s degree in Education with a focus on technology-mediated learning, and have years of experience as an educator, which has shaped my ability to communicate clearly, solve problems methodically, and learn continuously.
 
-<!--
-**GabrielGRSilva/GabrielGRSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently transitioning into software development, I'm focused on back-end technologies such as Python, JavaScript, Golang and Flask, while applying software engineering principles in personal projects.
 
-Here are some ideas to get you started:
+Core Skills & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python: scripting, automation, data processing;
+
+🔧 Git & GitHub: version control, code organization, collaboration;
+
+🧠 Fundamentals: OOP, clean code, problem solving;
+
+📚 Learning: JavaScript, Flask and SQL.
+
+Highlighted repositories:
+
+JoriusAI - An AI agent based on Gemini;
+
+Sir-Lints-A-Lot - Linter for Python programming, written in Go;
+
+Asteroid-Explorer-Game – A simple OOP-based game in Python and Pygame;
+
+StaticSiteGenerator – A static site builder using file handling and templating;
+
+Learning---Web-Menu – Basic web design practice project.
