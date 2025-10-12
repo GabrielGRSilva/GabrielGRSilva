@@ -2,10 +2,10 @@ Hello! I'm Gabriel, from Brazil! I'm a System Analysis and Development student a
 
 Core Skills & Tools:
 
-🐍 Python: scripting, automation, data processing;
+🐍 Python, JavaScript and TypeScript: scripting, automation, data processing, REST API, NodeJS;
 
 🔧 Git & GitHub: version control, code organization, collaboration;
 
-🧠 Fundamentals: OOP, clean code, problem solving;
+🧠 Fundamentals: OOP, FP, clean code, problem solving;
 
-📚 Learning: JavaScript, Flask and SQL.
+📚 Learning:Flask and SQL.
