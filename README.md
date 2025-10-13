@@ -4,7 +4,7 @@ Hi, I'm Gabriel! I'm a **Backend Developer** and a Systems Analysis student. I s
 
 * **🐍 Python** / **Go/Golang**: Robust automation, data manipulation, and high-performance backend scripting.
 * **🔵 TypeScript** / **Node.js**: REST API design, server-side logic, and clean backend development.
-* **🗄️ Databases**: Solid experience with SQL and data modeling (PostgreSQL, MongoDB).
+* **🗄️ Databases**: Solid experience with SQL and data modeling (PostgreSQL).
 * **🔧 Dev Ops Fundamentals**: Git & GitHub for version control, Docker basics, and deployment understanding.
 
 ### 🧠 Principles:
