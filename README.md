@@ -1,11 +1,15 @@
-Hello! I'm Gabriel, from Brazil! I'm a System Analysis and Development student and I hold a Master’s degree in Education with a focus on technology-mediated learning, and have years of experience as an educator, which has shaped my ability to communicate clearly, solve problems methodically, and learn continuously.
+Hi, I'm Gabriel! I'm a **Backend Developer** and a Systems Analysis student. I specialize in building robust APIs and scalable automation, backed by a unique Master's degree in Education that ensures crystal-clear communication and methodical problem-solving.
 
-Core Skills & Tools:
+### 🛠️ Core Skills & Tools:
 
-🐍 Python, JavaScript and TypeScript: scripting, automation, data processing, REST API, NodeJS;
+* **🐍 Python** / **Go/Golang**: Robust automation, data manipulation, and high-performance backend scripting.
+* **🔵 TypeScript** / **Node.js**: REST API design, server-side logic, and clean backend development.
+* **🗄️ Databases**: Solid experience with SQL and data modeling (PostgreSQL, MongoDB).
+* **🔧 Dev Ops Fundamentals**: Git & GitHub for version control, Docker basics, and deployment understanding.
 
-🔧 Git & GitHub: version control, code organization, collaboration;
+### 🧠 Principles:
 
-🧠 Fundamentals: OOP, FP, clean code, problem solving;
+* **Quality First**: Committed to **Clean Code**, Unit Testing, and SOLID principles.
+* **Methodical Approach**: Structured problem-solving derived from my background in education.
 
-📚 Learning:Flask and SQL.
+---
