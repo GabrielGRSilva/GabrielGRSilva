@@ -1,4 +1,4 @@
-Hi, I'm Gabriel! I'm a **Backend Developer** and a Systems Analysis student. I specialize in building robust APIs and scalable automation, backed by a unique Master's degree in Education that ensures crystal-clear communication and methodical problem-solving.
+Hi, I'm Gabriel! I'm a **Backend Developer** and a Systems Analysis and Development student. I specialize in building and working with backend/mobile applications, backed by a unique Master's degree in Education that ensures crystal-clear communication and methodical problem-solving.
 
 ### 🛠️ Core Skills & Tools:
 
