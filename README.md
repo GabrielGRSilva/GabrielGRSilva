@@ -1,24 +1,30 @@
-# Hi there, I'm Gabriel! 👋
+# Gabriel Silva 👋
+**Backend Software Engineer | Security Champion | Application Security (AppSec) | PHP, Laravel, Golang**
 
-I'm a **Backend Software Developer** and Systems Analysis and Development technologist specializing in server-side architecture, REST APIs, and relational databases. I combine daily production experience in **PHP, Laravel, and Lumen** with a growing focus on **Application Security (AppSec)** and secure coding practices. 
+I design secure server-side architectures, audit financial APIs, and translate complex engineering challenges into crystal-clear technical documentation. 
 
-Backed by a Master's degree in Technology-Mediated Education, I bring methodical problem-solving, crystal-clear technical documentation, and structured problem decomposition to complex engineering challenges.
+Backed by a **Master's degree in Technology-Mediated Education**, I don't just write code, I also act as a **Security Champion**, helping my teammates make applications more secure and robust. I bring scientific rigor and pedagogical clarity to software engineering, ensuring systems are both mathematically sound and flawlessly documented.
 
-### 🚀 What I Do & What I'm Exploring
-- **Current Work:** Developing and maintaining enterprise backend systems, validating live XML schemas, and optimizing database queries in high-availability production environments. *(Note: My daily PHP/Laravel enterprise projects reside in private company repositories)*.
-- **Active Focus:** Hardening server-side architectures, implementing secure API authentication/authorization flows, and exploring OWASP Top 10 vulnerability mitigation.
-- **Academic Journey:** Completing my degree in Systems Analysis and Development while continuously expanding my software engineering toolkit.
+### 🛡️ What I Do & Where I'm Growing
+- 💼 **Current Work:** Developing enterprise backend systems (PHP/Laravel) in the retail tech and payment sector. I validate live XML schemas, optimize relational databases, maintain and build REST APIs, and enforce secure data flows for point-of-sale environments. *(Note: My daily enterprise commits reside in private company repositories).*
+- 🌱 **Leveling Up At:** 
+  - **Boot.dev:** Mastering advanced backend architecture, algorithms, and Python;
+  - **PortSwigger Web Security Academy:** Solving advanced AppSec labs and writing security audit write-ups;
+  - **Google Skills:** Learning about Cloud Cybersecurity, including OWASP and NIST CSF;
+  - **UNINTER:** Currently pursuing an Associate's Degree in Systems Analysis and Development.
+- 🎯 **Goal:** Transitioning into a dedicated Application Security Engineer or Security-focused Backend role within a remote, asynchronous team.
 
 ### 🛠️ Tech Stack & Competencies
-- **Languages:** PHP, JavaScript, TypeScript, SQL, Java (Basic), Python
-- **Frameworks & Architecture:** Laravel, Lumen, Node.js, RESTful API Design
-- **Databases & Data Modeling:** MySQL, MariaDB, PostgreSQL, HeidiSQL
-- **DevOps, Tools & Security:** Git, GitHub, Git Bash, Linux, Postman, Secure Coding, XML Schema Validation
+- **Backend Architecture:** PHP, Laravel, Lumen, Golang, Node.js, RESTful API Design;
+- **Databases & Infrastructure:** MySQL, MariaDB, PostgreSQL, Query Optimization;
+- **Security & AppSec:** OWASP Top 10 mitigation, Dynamic SQL Auditing, Secure Code Review, Input Sanitization;
+- **Tools & Workflows:** Burp Suite, Git, Cursor, Linux, Postman, XML Schema Validation, Async Documentation, and more.
 
 ### 🧠 Engineering Principles
-- **Security by Design:** Building resilience, input sanitization, and data protection into APIs and database interactions from line one.
-- **Clean & Testable Code:** Deeply committed to maintainability, SOLID principles, and structural data integrity.
-- **Pedagogical Rigor:** Leveraging my educational background to translate complex business logic and regulatory requirements into clean code and accessible documentation.
+- **Security by Design:** Building resilience, strict validation, and data protection into APIs from line one;
+- **Pedagogical Rigor:** Leveraging my educational background to create robust architectural guidelines that bridge the gap between Development and Security teams. I strongly believe documentation should be a primary focus, as it helps teams organize ideas, identify gaps, onboard new colleagues, and audit applications when needed;
+- **Clean & Testable Code:** Deeply committed to SOLID principles, structural data integrity, and long-term maintainability.
 
 ---
-📫 **Connect with me:** [LinkedIn](/in/gabrielgrsilva) | ✉️ gabrielgrsilva@outlook.com.br
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/gabrielgrsilva) | ✉️ gabrielgrsilva@outlook.com.br
